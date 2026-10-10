@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EasyWrite.AI – Less Writing. More Connecting.</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="logo"><span class="mark">E</span><div><b>EasyWrite.AI</b><small>Less Writing. More Connecting.</small></div></div>
+    <span class="demo-badge" id="demoBadge">Demo Mode</span>
+    <nav id="nav" aria-label="Main navigation"></nav>
+    <div class="profile">
+      <button class="profile-btn" data-a="profile" aria-label="Profile menu"><span class="avatar">AK</span><span><b>Asha Kapoor</b><small>Campus Events Club</small></span></button>
+    </div>
+  </aside>
+  <div class="scrim" id="scrim" data-a="toggleNav"></div>
+  <main class="main">
+    <header class="topbar">
+      <button class="icon-btn menu-btn" data-a="toggleNav" aria-label="Open menu">&#9776;</button>
+      <h1 id="pageTitle">Overview</h1>
+      <span class="sample-note">Sample data · No emails are ever sent</span>
+    </header>
+    <div id="view" class="view"></div>
+  </main>
+</div>
+<div id="modalRoot"></div>
+<div id="toasts" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>
