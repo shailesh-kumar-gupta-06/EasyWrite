@@ -1,0 +1,252 @@
+[
+ {
+  "id": "s1",
+  "name": "Northwind Labs",
+  "industry": "Technology",
+  "desc": "Fictional developer-tools startup.",
+  "goals": [
+   "Recruit talent",
+   "Product demos"
+  ],
+  "audiences": [
+   "student",
+   "engineer",
+   "developer",
+   "coding",
+   "computer"
+  ],
+  "themes": [
+   "Technology",
+   "Career"
+  ],
+  "city": "Bengaluru",
+  "reach": "national",
+  "min": 20000,
+  "max": 150000
+ },
+ {
+  "id": "s2",
+  "name": "BrightPath Learning",
+  "industry": "Education",
+  "desc": "Fictional online-learning platform.",
+  "goals": [
+   "Student engagement",
+   "Brand awareness"
+  ],
+  "audiences": [
+   "student",
+   "learner",
+   "beginner",
+   "school",
+   "college"
+  ],
+  "themes": [
+   "Education",
+   "Technology"
+  ],
+  "city": "Delhi",
+  "reach": "national",
+  "min": 10000,
+  "max": 80000
+ },
+ {
+  "id": "s3",
+  "name": "Cedar Ledger",
+  "industry": "Finance",
+  "desc": "Fictional student-banking fintech.",
+  "goals": [
+   "Brand awareness",
+   "Recruit talent"
+  ],
+  "audiences": [
+   "student",
+   "finance",
+   "startup",
+   "business",
+   "young"
+  ],
+  "themes": [
+   "Career",
+   "Social Impact"
+  ],
+  "city": "Mumbai",
+  "reach": "national",
+  "min": 25000,
+  "max": 200000
+ },
+ {
+  "id": "s4",
+  "name": "Chai & Co. Roasters",
+  "industry": "Food & Beverage",
+  "desc": "Fictional café chain.",
+  "goals": [
+   "Social reach",
+   "Brand awareness"
+  ],
+  "audiences": [
+   "student",
+   "campus",
+   "festival",
+   "young",
+   "community"
+  ],
+  "themes": [
+   "Cultural",
+   "Sports",
+   "Social Impact"
+  ],
+  "city": "Durg",
+  "reach": "local",
+  "min": 3000,
+  "max": 40000
+ },
+ {
+  "id": "s5",
+  "name": "Orbit Cloud",
+  "industry": "Technology",
+  "desc": "Fictional cloud-hosting provider.",
+  "goals": [
+   "Product demos",
+   "Thought leadership"
+  ],
+  "audiences": [
+   "developer",
+   "hackathon",
+   "engineer",
+   "student",
+   "cloud"
+  ],
+  "themes": [
+   "Technology"
+  ],
+  "city": "Hyderabad",
+  "reach": "national",
+  "min": 30000,
+  "max": 250000
+ },
+ {
+  "id": "s6",
+  "name": "Greenleaf Stationers",
+  "industry": "Local Business",
+  "desc": "Fictional neighbourhood stationery shop.",
+  "goals": [
+   "Brand awareness",
+   "Social reach"
+  ],
+  "audiences": [
+   "student",
+   "campus",
+   "school",
+   "local"
+  ],
+  "themes": [
+   "Education",
+   "Cultural"
+  ],
+  "city": "Durg",
+  "reach": "local",
+  "min": 2000,
+  "max": 25000
+ },
+ {
+  "id": "s7",
+  "name": "Vertex Careers",
+  "industry": "Education",
+  "desc": "Fictional career-coaching service.",
+  "goals": [
+   "Recruit talent",
+   "Student engagement",
+   "Thought leadership"
+  ],
+  "audiences": [
+   "student",
+   "graduate",
+   "career",
+   "job",
+   "placement"
+  ],
+  "themes": [
+   "Career",
+   "Education"
+  ],
+  "city": "Pune",
+  "reach": "national",
+  "min": 8000,
+  "max": 90000
+ },
+ {
+  "id": "s8",
+  "name": "Sunrise Sports Nutrition",
+  "industry": "Food & Beverage",
+  "desc": "Fictional sports-drink brand.",
+  "goals": [
+   "Brand awareness",
+   "Product demos",
+   "Social reach"
+  ],
+  "audiences": [
+   "athlete",
+   "sports",
+   "fitness",
+   "student",
+   "young"
+  ],
+  "themes": [
+   "Sports",
+   "Social Impact"
+  ],
+  "city": "Raipur",
+  "reach": "regional",
+  "min": 10000,
+  "max": 100000
+ },
+ {
+  "id": "s9",
+  "name": "Raipur Print House",
+  "industry": "Local Business",
+  "desc": "Fictional local printing business.",
+  "goals": [
+   "Brand awareness"
+  ],
+  "audiences": [
+   "campus",
+   "student",
+   "local",
+   "community"
+  ],
+  "themes": [
+   "Cultural",
+   "Education",
+   "Sports"
+  ],
+  "city": "Raipur",
+  "reach": "local",
+  "min": 1500,
+  "max": 20000
+ },
+ {
+  "id": "s10",
+  "name": "PennyWise Capital",
+  "industry": "Finance",
+  "desc": "Fictional investing app.",
+  "goals": [
+   "Student engagement",
+   "Recruit talent"
+  ],
+  "audiences": [
+   "student",
+   "finance",
+   "investing",
+   "young",
+   "career"
+  ],
+  "themes": [
+   "Career",
+   "Education"
+  ],
+  "city": "Mumbai",
+  "reach": "national",
+  "min": 20000,
+  "max": 120000
+ }
+]
